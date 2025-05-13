@@ -1,8 +1,8 @@
 ## Acerca de mí
 
-👋 Hola, soy Esteban Miller, un apasionado de la programación y la ciencia de datos. Me enfoco en aprender constantemente y mantenerme actualizado con las últimas herramientas y tecnologías para ofrecer soluciones innovadoras. A través de mi trabajo con Python, R, Tableau y Power BI, busco siempre mejorar mis habilidades y aplicar nuevas técnicas que resuelvan desafíos de forma más eficiente. 
+Hola, soy Esteban Miller👋, un apasionado de la programación y la ciencia de datos. Me enfoco en aprender constantemente y mantenerme actualizado con las últimas herramientas y tecnologías para ofrecer soluciones innovadoras. A través de mi trabajo con Python, R, Tableau y Power BI, busco siempre mejorar mis habilidades y aplicar nuevas técnicas que resuelvan desafíos de forma más eficiente. 
 
-🎯 Mi mayor objetivo en este momento es desarrollarme dentro del ámbito laboral de la ciencia de datos, seguir creciendo profesionalmente y contribuir a proyectos desafiantes que me permitan expandir mis conocimientos y experiencia.
+Mi mayor objetivo en este momento es desarrollarme dentro del ámbito laboral de la ciencia de datos, seguir creciendo profesionalmente y contribuir a proyectos desafiantes que me permitan expandir mis conocimientos y experiencia.🎯
 
 
 ## Proyectos Destacados
