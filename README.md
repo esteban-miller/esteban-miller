@@ -1,5 +1,6 @@
 ## Encuéntrame en:
-[![LinkedIn](https://www.linkedin.com/in/esteban-miller-56301114b/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Miller-blue?logo=linkedin)](https://www.linkedin.com/in/esteban-miller-56301114b/)
+
 
 <!--
 **esteban-miller/esteban-miller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
