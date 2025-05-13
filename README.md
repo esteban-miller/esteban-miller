@@ -12,26 +12,15 @@ Conéctate conmigo en LinkedIn:
 
 Aquí están algunas de las herramientas que más uso en mis proyectos:
 
-[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)  
-**Windows**
-
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)  
-**SQLite**
-
-[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)  
-**R**
-
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
-**Python**
-
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/a/a7/Power_BI_Logo.svg)  
-**Power BI**
-
-![Tableau](https://upload.wikimedia.org/wikipedia/commons/3/34/Tableau_Logo.svg)  
-**Tableau**
+[![Windows](https://img.shields.io/badge/Windows-OS-blue?logo=windows)](https://www.microsoft.com/en-us/windows)  
+[![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite)](https://www.sqlite.org/)  
+[![R](https://img.shields.io/badge/R-Programming%20Language-blue?logo=r)](https://www.r-project.org/)  
+[![Python](https://img.shields.io/badge/Python-Programming%20Language-blue?logo=python)](https://www.python.org/)  
+[![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue?logo=tableau)](https://www.tableau.com/)  
+[![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-blue?logo=powerbi)](https://powerbi.microsoft.com/)  
 
 ## Repositorios
 
 Puedes revisar algunos de mis proyectos en los siguientes repositorios de GitHub:  
 [Mi repositorio de proyectos finales](https://github.com/esteban-miller/Repositorio-1)  
-[Otro proyecto en GitHub](https://github.com/esteban-miller/Repositorio-2)
+[Otro proyecto en GitHub](https://github.com/esteban-miller/Repositorio-2)  
