@@ -12,9 +12,23 @@ Conéctate conmigo en LinkedIn:
 
 Aquí están algunas de las herramientas que más uso en mis proyectos:
 
-[![My Skills](https://skillicons.dev/icons?i=windows,sqlite,r,python)](https://skillicons.dev)  
-![Power BI](https://github.com/tu-usuario/tu-repositorio/raw/main/assets/powerbi-logo.svg)  
-![Tableau](https://github.com/tu-usuario/tu-repositorio/raw/main/assets/tableau-logo.svg)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)  
+**Windows**
+
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)  
+**SQLite**
+
+[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)  
+**R**
+
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
+**Python**
+
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/a/a7/Power_BI_Logo.svg)  
+**Power BI**
+
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/3/34/Tableau_Logo.svg)  
+**Tableau**
 
 ## Repositorios
 
