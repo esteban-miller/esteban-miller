@@ -1,10 +1,18 @@
-## Contacto
+## Acerca de mí
 
-Puedes contactarme a través de mi correo electrónico:  
-📧 [milleresteban1999@hotmail.com](mailto:milleresteban1999@hotmail.com)
+Hola soy Esteban Miller, un apasionado de la programación y la ciencia de datos. Me enfoco en aprender constantemente y mantenerme actualizado con las últimas herramientas y tecnologías para ofrecer soluciones innovadoras. A través de mi trabajo con Python, R, Tableau y Power BI, busco siempre mejorar mis habilidades y aplicar nuevas técnicas que resuelvan desafíos de forma más eficiente. Mi objetivo es seguir creciendo profesionalmente y contribuir a proyectos que me desafíen y me permitan seguir aprendiendo.
 
-Conéctate conmigo en LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Miller-blue?logo=linkedin)](https://www.linkedin.com/in/esteban-miller-56301114b/)
+
+## Proyectos Destacados
+
+1. **Análisis del Impacto Nutricional de Alimentos Ultraprocesados**  
+   Proyecto final en el que se analizó el impacto de los alimentos ultraprocesados en la nutrición, utilizando herramientas de análisis de datos y visualización para identificar patrones relevantes.
+   - [Ver Proyecto en GitHub](https://github.com/esteban-miller/Analisis-del-Impacto-Nutricional-de-Alimentos-Ultraprocesados-PROYECTO-FINAL)
+
+2. **AI Fundamentals - Machine Learning**  
+   Proyecto centrado como parte de un reto de ciencia de datos para un banco y aprendizaje automático, con implementaciones prácticas de modelos de machine learning.
+   - [Ver Proyecto en GitHub](https://github.com/esteban-miller/7.AI-Fundamentals-Machine-Learning)
+
 
 ## Herramientas con las que trabajo:
 
@@ -16,8 +24,10 @@ Conéctate conmigo en LinkedIn:
 [![R](https://img.shields.io/badge/R-Programming%20Language-blue?logo=r)](https://www.r-project.org/)   
 [![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue?logo=tableau)](https://www.tableau.com/)
 
-## Repositorios
+## Contacto
 
-Puedes revisar algunos de mis proyectos en los siguientes repositorios de GitHub:  
-[Mi repositorio de proyectos finales](https://github.com/esteban-miller/Repositorio-1)  
-[Otro proyecto en GitHub](https://github.com/esteban-miller/Repositorio-2)
+Puedes contactarme a través de mi correo electrónico:  
+📧 [milleresteban1999@hotmail.com](mailto:milleresteban1999@hotmail.com)
+
+Conéctate conmigo en LinkedIn:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Miller-blue?logo=linkedin)](https://www.linkedin.com/in/esteban-miller-56301114b/)
