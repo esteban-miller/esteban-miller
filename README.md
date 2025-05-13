@@ -6,7 +6,7 @@ Puedes contactarme a través de mi correo electrónico:
 Conéctate conmigo en LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Miller-blue?logo=linkedin)](https://www.linkedin.com/in/esteban-miller-56301114b/)
 
-## Herramientas que suelo usar
+## Herramientas con las que trabajo:
 
 [![My Skills](https://skillicons.dev/icons?i=windows,sqlite,r,python,tableau,powerbi&perline=3)](https://skillicons.dev)  
 
