@@ -1,6 +1,3 @@
-## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Miller-blue?logo=linkedin)](https://www.linkedin.com/in/esteban-miller-56301114b/)
-
 ## Contacto
 
 Puedes contactarme a través de mi correo electrónico:  
@@ -15,8 +12,10 @@ Conéctate conmigo en LinkedIn:
 
 Aquí están algunas de las herramientas que más uso en mis proyectos:
 
-[![My Skills](https://skillicons.dev/icons?i=windows,sqlite,r,python,powerbi,tableau&perline=3)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=windows,sqlite,r,python)](https://skillicons.dev)  
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/0/03/Power_BI_Logo.svg)  
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/6/63/Tableau_Logo.svg)
+
 ## Repositorios
 
 Puedes revisar algunos de mis proyectos en los siguientes repositorios de GitHub:  
