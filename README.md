@@ -2,6 +2,7 @@
 
 Puedes contactarme a través de mi correo electrónico:  
 📧 [milleresteban1999@hotmail.com](mailto:milleresteban1999@hotmail.com)
+
 Conéctate conmigo en LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Miller-blue?logo=linkedin)](https://www.linkedin.com/in/esteban-miller-56301114b/)
 
