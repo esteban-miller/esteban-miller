@@ -10,10 +10,7 @@ Conéctate conmigo en LinkedIn:
 
 ## Herramientas que suelo usar
 
-Aquí están algunas de las herramientas que más uso en mis proyectos:
 [![My Skills](https://skillicons.dev/icons?i=windows,sqlite,r,python,tableau,powerbi&perline=3)](https://skillicons.dev)  
-[![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue?logo=tableau)](https://www.tableau.com/)  
-[![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-blue?logo=powerbi)](https://powerbi.microsoft.com/)  
 
 [![Windows](https://img.shields.io/badge/Windows-Operating%20System-blue?logo=windows)](https://www.microsoft.com/windows)  
 [![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey?logo=sqlite)](https://www.sqlite.org/)  
