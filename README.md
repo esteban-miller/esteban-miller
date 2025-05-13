@@ -1,17 +1,17 @@
 ## Acerca de mí
 
-Hola, soy Esteban Miller, un apasionado de la programación y la ciencia de datos. Me enfoco en aprender constantemente y mantenerme actualizado con las últimas herramientas y tecnologías para ofrecer soluciones innovadoras. A través de mi trabajo con Python, R, Tableau y Power BI, busco siempre mejorar mis habilidades y aplicar nuevas técnicas que resuelvan desafíos de forma más eficiente. 
+👋 Hola, soy Esteban Miller, un apasionado de la programación y la ciencia de datos. Me enfoco en aprender constantemente y mantenerme actualizado con las últimas herramientas y tecnologías para ofrecer soluciones innovadoras. A través de mi trabajo con Python, R, Tableau y Power BI, busco siempre mejorar mis habilidades y aplicar nuevas técnicas que resuelvan desafíos de forma más eficiente. 
 
-Mi mayor objetivo en este momento es desarrollarme dentro del ámbito laboral de la ciencia de datos, seguir creciendo profesionalmente y contribuir a proyectos desafiantes que me permitan expandir mis conocimientos y experiencia.
+🎯 Mi mayor objetivo en este momento es desarrollarme dentro del ámbito laboral de la ciencia de datos, seguir creciendo profesionalmente y contribuir a proyectos desafiantes que me permitan expandir mis conocimientos y experiencia.
 
 
 ## Proyectos Destacados
 
-1. **Análisis del Impacto Nutricional de Alimentos Ultraprocesados**  
+1. **Análisis del Impacto Nutricional de Alimentos Ultraprocesados** 🥗  
    Proyecto final en el que se analizó el impacto de los alimentos ultraprocesados en la nutrición, utilizando herramientas de análisis de datos y visualización para identificar patrones relevantes.
    - [Ver Proyecto en GitHub](https://github.com/esteban-miller/Analisis-del-Impacto-Nutricional-de-Alimentos-Ultraprocesados-PROYECTO-FINAL)
 
-2. **AI Fundamentals - Machine Learning**  
+2. **AI Fundamentals - Machine Learning** 🤖  
    Como parte de un reto de ciencia de datos para un banco, desarrollé un modelo de machine learning capaz de predecir la probabilidad de que un cliente se suscriba a un depósito a plazo. Este modelo se centró en optimizar el área de marketing utilizando algoritmos de clasificación.
    - [Ver Proyecto en GitHub](https://github.com/esteban-miller/7.AI-Fundamentals-Machine-Learning)
 
