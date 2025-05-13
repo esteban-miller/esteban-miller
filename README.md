@@ -15,12 +15,13 @@ Conéctate conmigo en LinkedIn:
 
 Aquí están algunas de las herramientas que más uso en mis proyectos:
 
-- 🪟 [Windows](https://www.microsoft.com/en-us/windows)  
-- 🐍 [Python](https://www.python.org/)  
-- 🔲 [SQLite](https://www.sqlite.org/)  
-- 📊 [Tableau](https://www.tableau.com/)  
-- 📈 [Power BI](https://powerbi.microsoft.com/)  
-- 📉 [R](https://www.r-project.org/)  
+[![My Skills](https://skillicons.dev/icons?i=windows,sqlite,r,python,tableau,powerbi&perline=3)](https://skillicons.dev)
+  
+## Repositorios
+
+Puedes revisar algunos de mis proyectos en los siguientes repositorios de GitHub:  
+[Mi repositorio de proyectos finales](https://github.com/esteban-miller/Repositorio-1)  
+[Otro proyecto en GitHub](https://github.com/esteban-miller/Repositorio-2)
 
 ## Repositorios
 
