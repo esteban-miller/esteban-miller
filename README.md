@@ -14,7 +14,6 @@ Conéctate conmigo en LinkedIn:
 
 [![Python](https://img.shields.io/badge/Python-Programming%20Language-blue?logo=python)](https://www.python.org/)  
 [![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-blue?logo=powerbi)](https://powerbi.microsoft.com/) 
-
 [![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey?logo=sqlite)](https://www.sqlite.org/)  
 [![R](https://img.shields.io/badge/R-Programming%20Language-blue?logo=r)](https://www.r-project.org/)   
 [![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue?logo=tableau)](https://www.tableau.com/)
