@@ -18,7 +18,7 @@ Mi mayor objetivo en este momento es desarrollarme dentro del ámbito laboral de
 
 ## Herramientas con las que trabajo:
 
-[![My Skills](https://skillicons.dev/icons?i=windows,sqlite,r,python,tableau,powerbi&perline=3)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,sqlite,r,windows,tableau,powerbi&perline=3)](https://skillicons.dev)  
 
 [![Python](https://img.shields.io/badge/Python-Programming%20Language-blue?logo=python)](https://www.python.org/)  
 [![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-blue?logo=powerbi)](https://powerbi.microsoft.com/) 
